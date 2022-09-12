@@ -8,7 +8,7 @@ import javax.swing.ImageIcon;
 
 /**
  *
- * @author C1280738
+ * @author Athila Wender de Salles
  */
 public class tela extends javax.swing.JFrame {
 
