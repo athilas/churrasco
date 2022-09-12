@@ -5,7 +5,7 @@
 package churrasco;
 /**
  *
- * @author C1280738
+ * @author Athila Wender de Salles
  */
 public class Calculo {
         
